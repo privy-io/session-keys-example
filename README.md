@@ -1,4 +1,4 @@
-# Privy Account Abstraction Example with Session Keys
+# Privy account abstraction example with session keys
 
 This is a example using Privy to create an signer for an account abstraction (AA) account and provision server-side access to the AA wallet using session keys.
 
