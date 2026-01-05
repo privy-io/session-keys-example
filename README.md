@@ -1,5 +1,7 @@
 # Privy account abstraction example with session keys
 
+> **This repository is archived.** For up-to-date examples, please visit [github.com/privy-io/examples](https://github.com/privy-io/examples).
+
 This is a example using Privy to create an signer for an account abstraction (AA) account and provision server-side access to the AA wallet using session keys.
 
 Please follow this guide to [access wallets from your backend](https://docs.privy.io/guide/react/recipes/misc/session-keys) for a deep dive into this integration.
